@@ -1,0 +1,284 @@
+{"level":"error","message":"You have already subscription, please updated existing subscription."}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Something went wrong"}
+{"level":"error","message":"Something went wrong"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":""}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')"}
+{"level":"error","message":""}
+{"level":"error","message":"You have already subscription, please updated existing subscription."}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":""}
+{"level":"error","message":""}
+{"level":"error","message":""}
+{"level":"error","message":""}
+{"level":"error","message":""}
+{"level":"error","message":""}
+{"level":"error","message":"Something went wrong. "}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Something went wrong."}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Something went wrong"}
+{"level":"error","message":"Something went wrong"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Something went wrong"}
+{"level":"error","message":"Something went wrong"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Something went wrong"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Something went wrong"}
+{"level":"error","message":"Something went wrong"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"You have already subscription, please updated existing subscription."}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"You have already subscription, please updated existing subscription."}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 2916627."}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}
+{"level":"error","message":"Plan does not exist in the database"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'data')"}
+{"level":"error","message":""}
+{"level":"error","message":""}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":"Request failed with status code 400"}
+{"level":"error","message":""}
+{"level":"error","message":"[object Object],[object Object]"}
+{"level":"error","message":"Order creation failure due to problematic input."}
+{"level":"error","message":"The value of element amount does not match its type"}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Expected string, received number"}
+{"level":"error","message":"Expected string, received number"}
+{"level":"error","message":"Currency must be a string"}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"PlanId is required."}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"Required"}
+{"level":"error","message":"Required"}
+{"level":"error","message":"zip must be a number."}
+{"level":"error","message":"expiration year must be a number."}
+{"level":"error","message":"Unexpected number in JSON at position 263"}
+{"level":"error","message":"security code is required"}
+{"level":"error","message":"You have already subscription, please updated existing subscription."}
+{"level":"error","message":"You have already subscription, please updated existing subscription."}
+{"level":"error","message":"expiration month must be a number."}
+{"level":"error","message":"unsupported charset \"UTF-8\""}
+{"level":"error","message":"unsupported charset \"UTF-8\""}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Currency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"You have already subscription, please updated existing subscription."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Required"}
+{"level":"error","message":"Required"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"You have already subscription, please updated existing subscription."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"\nInvalid `prisma.subscription.findUnique()` invocation in\nC:\\Users\\ManojKushwaha\\Desktop\\Projects\\bluesnap-api\\controllers\\subscription.ts:131:52\n\n  128 const { payerInfo, paymentSource } = req.body;\n  129 \n  130 // if user have already subscription\n→ 131 const subscription = await prisma.subscription.findUnique({\n        include: {\n          payerInfo: true,\n          paymentInfo: true\n        },\n        where: {\n      +   accountId: Int\n        }\n      })\n\nArgument `accountId` is missing."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"\nInvalid `prisma.subscription.findUnique()` invocation in\nC:\\Users\\ManojKushwaha\\Desktop\\Projects\\bluesnap-api\\controllers\\subscription.ts:131:52\n\n  128 const { payerInfo, paymentSource } = req.body;\n  129 \n  130 // if user have already subscription\n→ 131 const subscription = await prisma.subscription.findUnique({\n        include: {\n          payerInfo: true,\n          paymentInfo: true\n        },\n        where: {\n      +   accountId: Int\n        }\n      })\n\nArgument `accountId` is missing."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Invalid card transaction type:  ."}
+{"level":"error","message":"Invalid card transaction type:  ."}
+{"level":"error","message":"Invalid card transaction type:  ."}
+{"level":"error","message":"Invalid card transaction type:  ."}
+{"level":"error","message":"Invalid card transaction type: ."}
+{"level":"error","message":"Amount must be a number"}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"Amount must be a number"}
+{"level":"error","message":"zip must be a number."}
+{"level":"error","message":"zip must be a number."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"zip must be a string."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"zip must be a string."}
+{"level":"error","message":"Required"}
+{"level":"error","message":"Required"}
+{"level":"error","message":"expiration year must be a number."}
+{"level":"error","message":"Unexpected token c in JSON at position 5"}
+{"level":"error","message":"Unexpected token c in JSON at position 5"}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"Charge frequency is required."}
+{"level":"error","message":"Recurring Charge Amount must be a number"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"subscription id must be a number."}
+{"level":"error","message":"subscription id must be a number."}
+{"level":"error","message":"subscription id must be a number."}
+{"level":"error","message":"subscription id must be a number."}
+{"level":"error","message":"subscription id must be a number."}
+{"level":"error","message":"subscription id must be a number."}
+{"level":"error","message":"\nInvalid `prisma.subscription.findUnique()` invocation in\nC:\\Users\\ManojKushwaha\\Desktop\\Projects\\bluesnap-api\\controllers\\subscription.ts:78:52\n\n  75 async (req: Request, res: Response, next: any) => {\n  76   const { accountId } = req.params;\n  77   const payload = { status: \"CANCELED\" };\n→ 78   const subscription = await prisma.subscription.findUnique({\n         include: {\n           payerInfo: true,\n           paymentInfo: true\n         },\n         where: {\n       +   accountId: Int\n         }\n       })\n\nArgument `accountId` is missing."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"You have already subscription, please updated existing subscription."}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 403"}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"AxiosRequest failed with status code 400"}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Something went wrong."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Something went wrong."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Something went wrong."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Something went wrong."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Something went wrong."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Something went wrong."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"User: API_1689844162557713615624 is not authorized to access plan: 9203909."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Something went wrong."}
+{"level":"error","message":"Transaction type is required."}
+{"level":"error","message":"Please activate subscription before making modifications to it."}
+{"level":"error","message":"Plan does not exist in the database"}
+{"level":"error","message":"Plan does not exist in the database"}
+{"level":"error","message":"Plan does not exist in the database"}
+{"level":"error","message":"Subscription not found, Subscription id: 48299205"}
+{"level":"error","message":"Subscription not found, Subscription id: 48305749"}
+{"level":"error","message":"Subscription not found, Subscription id: 48305749"}
+{"level":"error","message":"Subscription not found, Subscription id: 48305749"}
+{"level":"error","message":"TypeConverting circular structure to JSON\n    --> starting at object with constructor 'ClientRequest'\n    |     property 'socket' -> object with constructor 'TLSSocket'\n    --- property '_httpMessage' closes the circle"}

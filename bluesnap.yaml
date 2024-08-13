@@ -1,0 +1,67 @@
+---
+# BlueSnap API Endpoints
+base_url: https://sandbox.bluesnap.com/services/2
+headers:
+  Content-Type: application/json
+  Accept: application/json
+  Authorization: Basic QVBJXzE2ODk3NzM2NTE1MTUxOTAxMjIzNDI6c0BuZGJveEJMc0EhMTIzcHA
+
+# Plan Creation
+create_plan:
+  url: ${base_url}/recurring/plans
+  method: POST
+  body: |
+    {
+      "planName": "My Plan",
+      "chargeFrequency": "MONTHLY",
+      "recurringChargeAmount": 9.99,
+      "currency": "USD"
+    }
+
+# Subscription Creation
+create_subscription:
+  url: ${base_url}/recurring/subscriptions
+  method: POST
+  body: |
+    {
+     "payerInfo": {
+        "zip": "02453",
+        "firstName": "John",
+        "lastName": "Doe",
+        "phone": 1234567890
+    },
+    "paymentSource": {"creditCardInfo": {"creditCard": {
+        "expirationYear": 2026,
+        "securityCode": 123,
+        "expirationMonth": "02",
+        "cardNumber": 3566000020000410
+    }}},
+    "planId": 3775892
+    }
+
+# Plan Switching
+switch_plan:
+  url: ${base_url}/recurring/subscriptions/{subscriptionId}
+  method: PUT
+  body: |
+    {
+      "planId": 12345      
+    }
+
+# Subscription Cancellation
+cancel_subscription:
+  url: ${base_url}/recurring/subscriptions/{subscriptionId}
+  method: PUT
+  body: |
+    {
+      "status": "CANCELED"
+    }
+
+# Subscription Pausing
+pause_subscription:
+  url: ${base_url}/recurring/subscriptions/{subscriptionId}
+  method: PUT
+  body: |
+    {
+      "autoRenew": false
+    }

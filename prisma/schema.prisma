@@ -1,0 +1,68 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// ------------- Database Connection with postgresql ------------ //
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ------------- Plan Schema ------------ //
+
+model Plan {
+  planId                Int     @unique
+  name                  String  @db.VarChar(255)
+  currency              String?
+  chargeFrequency       String?
+  status                String?
+  chargeOnPlanSwitch    String?
+  recurringChargeAmount Int
+}
+
+// ------------- Subscription Schema ------------ //
+
+model Subscription {
+  subscriptionId        Int             @id @unique
+  planId                Int
+  accountId             Int             @unique
+  vaultedShopperId      Int
+  status                String?
+  quantity              Int
+  softDescriptor        String?
+  chargeFrequency       String?
+  recurringChargeAmount Float
+  currency              String?
+  autoRenew             Boolean
+  nextChargeDate        String?
+  payerInfo             PayerInfo?
+  paymentInfo           CreditCardInfo?
+}
+
+model PayerInfo {
+  subscriptionId Int          @id
+  firstName      String?
+  lastName       String?
+  zip            String?
+  phone          String?
+  subscription   Subscription @relation(fields: [subscriptionId], references: [subscriptionId])
+}
+
+model CreditCardInfo {
+  subscriptionId     Int          @id
+  cardLastFourDigits String?
+  cardType           String?
+  cardSubType        String?
+  cardCategory       String?
+  binCategory        String?
+  binNumber          String?
+  cardRegulated      String?
+  expirationMonth    String?
+  expirationYear     String?
+  issuingCountryCode String?
+  issuingBank        String?
+  subscription       Subscription @relation(fields: [subscriptionId], references: [subscriptionId])
+}
